@@ -1,0 +1,19 @@
+{
+  "name": "Ramesh",
+  "department": "Computer Science",
+  "yearOfJoining": "2026-06-20",
+  "addresses": [
+    {
+      "street": "FC Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipCode": "411005"
+    },
+    {
+      "street": "MG Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zipCode": "411001"
+    }
+  ]
+}
